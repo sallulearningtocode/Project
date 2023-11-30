@@ -1,0 +1,4 @@
+Retry Payment
+this section will give us orderid, productid and the status of payment
+then after capturing the orderid and productid a search will be there of that specific payment
+and if it is really a failed transaction then user will be given a chance to retry for the payment otherwise a prompt will be shown payment already successful
